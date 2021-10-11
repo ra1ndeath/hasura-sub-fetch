@@ -1,0 +1,28 @@
+{
+  "name": "hasura-sub-fetch",
+  "version": "1.0.1",
+  "description": "desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ra1ndeath/hasura-sub-fetch.git"
+  },
+  "author": "RainDeath",
+  "dependencies": {
+    "apollo-link": "^1.2.2",
+    "apollo-link-ws": "^1.0.8",
+    "axios": "^0.22.0",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.2",
+    "subscriptions-transport-ws": "^0.9.12",
+    "ws": "^5.2.2"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ra1ndeath/hasura-sub-fetch/issues"
+  },
+  "homepage": "https://github.com/ra1ndeath/hasura-sub-fetch#readme"
+}
