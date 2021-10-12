@@ -1,6 +1,6 @@
 {
   "name": "hasura-sub-fetch",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "desc",
   "main": "index.js",
   "scripts": {
