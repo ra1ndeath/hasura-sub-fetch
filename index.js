@@ -23,7 +23,7 @@ async function fetchGraphQL(url, operationsDoc, operationName, variables, params
         query: operationsDoc,
         variables: variables,
         operationName: operationName
-    }), { params });
+    }), params);
     return res.data;
 }
 
